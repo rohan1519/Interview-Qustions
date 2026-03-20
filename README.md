@@ -830,6 +830,7 @@ from math_operations import add, subtract
 
 result = add(3, 2)
 print(result) # Output: 5.0
+
 Best Practices
 To ensure the module is professional and reusable, follow these Best Practices:
 

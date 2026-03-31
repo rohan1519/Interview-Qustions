@@ -1,6 +1,6 @@
 # 100 core Python Interview Questions 
 1. What are the key features of Python?
-Python is a high-level, multi-paradigm programming language known for its simplicity, readable syntax, and a massive ecosystem. It is widely used in AI, web development, and automation.
+Python is a high-level, multi-paradigm programming language known for its simplicity, readable syntax, and a massive ecosystem.
 
 Key Features of Python
 1. Interpreted and Interactive
